@@ -5,18 +5,28 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ...Building my self
+open sorce project
+Hackthon
+learning
+web dev
+learning new thing is craze
+- 🌱 I’m currently learning ...Building my self
+- 👯 I’m looking to collaborate on ...open sourse project
+- 🤔 I’m looking for help with ...Hackthon
+- 💬 Ask me about ...web dev
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...learning new thing is craze
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-o buldinngmyself                                                                                       
-
+buldinngmyself                                                                                       
+ I’m currently learning ...Building my self
+- I’m looking to collaborate on ...open sourse project
+-  I’m looking for help with ...Hackthon
+- 💬 Ask me about ...web dev
+- How to reach me: ...
+  - ...learning new thing is craze
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
